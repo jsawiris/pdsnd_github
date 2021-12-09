@@ -187,7 +187,7 @@ def user_stats(df):
         print("\nThe Most Recent year of Birth is :\n"+str(int(recent_birth)))
         print("\nThe Common Year of Birth is :\n"+str(int(common_birth)))
     except KeyError:
-        print("Dataset value error")
+        print("Dataset value error: Washington lack of user data")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
