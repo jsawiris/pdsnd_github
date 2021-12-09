@@ -17,3 +17,6 @@ The program allows the user to explore an US bikeshare system database and retri
 
 ### Credits
 Thanks to Divvy to publish these data , it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
+
+### LOAD data
+load data function has the ability to retrieve the data in set of 5 records each time 
