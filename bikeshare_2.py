@@ -6,7 +6,7 @@ import datetime
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+# Adding  Months data set and days data set 
 MONTH_DATA=['all','january','febraury','march','april','may','june']
 
 DAY_DATA=['all','monday','tuesday','wednesday','thursday','friday','saturday','sunday']
