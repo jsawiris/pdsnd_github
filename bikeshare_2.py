@@ -205,6 +205,7 @@ def display_data(df):
         start_loc += 5
         view_data = input("Do you wish to continue?:").lower()
         if view_data=='no':
+            print("Dataload ended.")
             break
 
 
